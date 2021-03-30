@@ -8,3 +8,13 @@ C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.csp
 C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.exe
 C:\Users\asus\Desktop\РиСПСиИТ\Программы\PP\PP\obj\Debug\PP.pdb
+C:\Users\User\Desktop\СФ МЭИ\6 семестр\разработка и стандартизация ПС и ИТ\ЛБ2\PP\obj\Debug\PP.csprojAssemblyReference.cache
+C:\Users\User\Desktop\СФ МЭИ\6 семестр\разработка и стандартизация ПС и ИТ\ЛБ2\PP\obj\Debug\PP.Form1.resources
+C:\Users\User\Desktop\СФ МЭИ\6 семестр\разработка и стандартизация ПС и ИТ\ЛБ2\PP\obj\Debug\PP.Properties.Resources.resources
+C:\Users\User\Desktop\СФ МЭИ\6 семестр\разработка и стандартизация ПС и ИТ\ЛБ2\PP\obj\Debug\PP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\СФ МЭИ\6 семестр\разработка и стандартизация ПС и ИТ\ЛБ2\PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\СФ МЭИ\6 семестр\разработка и стандартизация ПС и ИТ\ЛБ2\PP\obj\Debug\PP.exe
+C:\Users\User\Desktop\СФ МЭИ\6 семестр\разработка и стандартизация ПС и ИТ\ЛБ2\PP\obj\Debug\PP.pdb
+C:\Users\User\Desktop\СФ МЭИ\6 семестр\разработка и стандартизация ПС и ИТ\ЛБ2\PP\bin\Debug\PP.exe.config
+C:\Users\User\Desktop\СФ МЭИ\6 семестр\разработка и стандартизация ПС и ИТ\ЛБ2\PP\bin\Debug\PP.exe
+C:\Users\User\Desktop\СФ МЭИ\6 семестр\разработка и стандартизация ПС и ИТ\ЛБ2\PP\bin\Debug\PP.pdb
