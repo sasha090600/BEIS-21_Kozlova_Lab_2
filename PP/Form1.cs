@@ -19,7 +19,9 @@ namespace PP
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double a = Convert.ToSingle(textBox1.Text);
+          // с днем рождения, Екатерина Ивановна!
+          
+          double a = Convert.ToSingle(textBox1.Text);
             double b = Convert.ToSingle(textBox2.Text);
             double c;
             c = a + b;
